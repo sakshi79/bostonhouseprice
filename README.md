@@ -1,1 +1,1 @@
-# ML model for predicting prices of house in Boston.
+# ML model for predicting house prices in Boston.
